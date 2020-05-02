@@ -4,3 +4,6 @@ hey guys techdevil here by using this script you can send unlimted mails to vict
 Youtube : Telugu tech devils
 
 practical video : 
+
+
+BULIT WITH :PYTHON3 
